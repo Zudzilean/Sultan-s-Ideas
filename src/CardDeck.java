@@ -1,3 +1,21 @@
+/*
+ * 文件名称: CardDeck.java
+ * 功能: 自动生成卡牌数量的 JSON 格式输出，方便用户复制到相应文件。
+ *
+ * 使用方法:
+ * 1. 运行程序，输入每种卡牌的数量（0 表示不需要该卡牌）。
+ * 2. 程序将输出可以直接用于 JSON 文件的内容。
+ *
+ * 【代码修改】荷官
+ * 设计思路: 提供便捷的卡牌数量输入和输出功能。
+ *
+ * 制作者: 勤能补拙
+ * 日期: 2024-10-12
+ *
+ * 备注: 本程序使用 Java 编写，相关代码已上传至 GitHub，搜索 "Sultan-s-Ideas" 可获取。
+ */
+
+
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
